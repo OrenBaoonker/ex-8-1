@@ -1,0 +1,45 @@
+h1 {
+	font-family: Tahoma;
+	font-size: 48px;
+	color: blue;
+	text-align: center;
+	direction: rtl;
+}
+ul li {
+	float: right;
+	display: inline;
+	font-family: Arial;
+	font-size: 24px;
+	color: green;
+	width: 200px;
+	margin: 0 auto;
+	background-color: yellow;
+	text-align: center;
+	direction: rtl;
+	}
+.h2title {
+	margin-top: 100px;
+	font-family: Arial;
+	font-size: 36px;
+	text-align: right;
+	direction: rtl;
+	clear: right;
+	overflow: auto;
+}
+.h3title {
+	font-family: Tahoma;
+	font-size: 20px;
+	font-style: italic;
+	text-align: right;
+	direction: rtl;
+	clear: right;
+	overflow: auto;
+}
+.article {
+
+	font-family: indie flower;
+	text-align: right;
+	direction: rtl;
+	clear: right;
+	overflow: auto;
+}
